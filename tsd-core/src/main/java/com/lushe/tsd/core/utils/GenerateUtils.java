@@ -10,7 +10,7 @@ import org.apache.commons.lang3.RandomStringUtils;
 public class GenerateUtils {
 
     /**
-     * 生成分支号
+     * generate branch tags
      *
      * @return
      */
